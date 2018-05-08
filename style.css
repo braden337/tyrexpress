@@ -24,6 +24,7 @@ header > h1 {
   color: white;
   text-transform: uppercase;
   padding: 1rem 0;
+  text-align: center;
 }
 
 header > h3 {
