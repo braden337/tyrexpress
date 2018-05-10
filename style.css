@@ -36,9 +36,10 @@ header > h3 {
 
 main {
   display: flex;
+  justify-content: center;
 }
 
 main > iframe {
-  margin: auto;
-  height: 600px;
+  width: 100%;
+  height: 50vh;
 }
