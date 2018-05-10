@@ -33,3 +33,12 @@ header > h3 {
   border-top: 0.5rem red solid;
   border-bottom: 0.5rem red solid;
 }
+
+main {
+  display: flex;
+}
+
+main > iframe {
+  margin: auto;
+  height: 600px;
+}
