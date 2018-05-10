@@ -35,8 +35,6 @@ header > h3 {
 }
 
 main {
-  display: flex;
-  justify-content: center;
 }
 
 main > iframe {
